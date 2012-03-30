@@ -2,7 +2,7 @@
 // Name        : abc.cpp
 // Author      : 
 // Version     :asdasd
-// Copyright   : Your copyright notice
+// Copyright   : Youddr copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
