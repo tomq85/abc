@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : abc.cpp
-// Master	   : merged version
+// Master	   : merged version 2
 // Author      : galaz
 // Version     :asdasd
 // Copyright   : Youddr copyright notice galaz
