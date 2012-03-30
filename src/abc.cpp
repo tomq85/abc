@@ -1,6 +1,11 @@
 //============================================================================
 // Name        : abc.cpp
+<<<<<<< HEAD
 // Author      : galaz man
+=======
+// Master	   : merged version 2
+// Author      : galaz
+>>>>>>> master
 // Version     :asdasd
 // Copyright   : Youddr copyright notice galaz
 // Description : Hello World in C++, Ansi-style
