@@ -11,12 +11,12 @@
 using namespace std;
 
 TestClass::TestClass() {
-	// TODO Auto-generated constructor stub
+	cout << "Test Class constructor" << endl;
 
 }
 
 TestClass::~TestClass() {
-	// TODO Auto-generated destructor stub
+	cout << "Test Class destructor" << endl;
 }
 
 void TestClass::helloTest() {

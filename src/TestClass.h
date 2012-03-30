@@ -12,7 +12,7 @@ class TestClass {
 public:
 	TestClass();
 	virtual ~TestClass();
-	void helloTest();
+	virtual void helloTest();
 };
 
 #endif /* TESTCLASS_H_ */

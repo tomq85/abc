@@ -8,10 +8,14 @@
 
 #include <iostream>
 #include "TestClass.h"
+#include "Subclass.h"
+
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	TestClass().helloTest();
+	cout << "!!!aaHello World!!!" << endl; // prints !!!Hello World!!!
+	TestClass *a = new Subclass();
+	a->helloTest();
+	delete a;
 	return 0;
 }
